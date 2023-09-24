@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Student\Data\" />
     <Folder Include="Student\Enums\" />
     <Folder Include="Student\Providers\" />
   </ItemGroup>

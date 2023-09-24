@@ -9,7 +9,5 @@ public class AppDbContext : DbContext
 
     public DbSet<Student> students { get; set; }
 
-
-
-
+    //نصب دیزاین و ماگریشن
 }
